@@ -1,4 +1,4 @@
-: Salesforcename CI/CD with Docker CLI
+name: Salesforcename CI/CD with Docker CLI
 
 on:
   push:
